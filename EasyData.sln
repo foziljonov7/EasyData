@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyData", "EasyData\EasyData.csproj", "{6C343CBD-4DEE-43DF-8249-D4AA1B265EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C343CBD-4DEE-43DF-8249-D4AA1B265EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C343CBD-4DEE-43DF-8249-D4AA1B265EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C343CBD-4DEE-43DF-8249-D4AA1B265EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C343CBD-4DEE-43DF-8249-D4AA1B265EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5F56824-2CF2-460A-97BC-A73CA07CCABF}
+	EndGlobalSection
+EndGlobal
