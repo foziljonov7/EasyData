@@ -1,6 +1,6 @@
 # EasyData
 
-## Dasturni osonlashtirish uchun generik repository.
+## Generik repository.
 
 Asosiy xususiyatlari
 
