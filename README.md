@@ -5,7 +5,7 @@
 Asosiy xususiyatlari
 
 
-- SaveAsync() - Malumotlarni saqlash
+- SaveAsync(CancelationToken) - Malumotlarni saqlash
 
   
 - AddAsync(TEntity, CancelationToken) - Yangi malumot yaratish
