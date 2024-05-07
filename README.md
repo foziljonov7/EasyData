@@ -11,7 +11,7 @@ Asosiy xususiyatlari
 - AddAsync(TEntity newEntity) - Yangi malumot yaratish
 
   
-- UpdateAsync(Enity entity) - Malumot o'zgartirish
+- UpdateAsync(TEntity entity) - Malumot o'zgartirish
 
   
 - DeleteAsync(long Id) - Malumot o'chirish
@@ -32,6 +32,11 @@ Asosiy xususiyatlari
 ```
 dotnet add package EasyData
 ```
+
+
+Muallif - Abdulvosid Foziljonov
+
+http://abdulvosid-foziljonov.uz
 
 
 
