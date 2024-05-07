@@ -1,6 +1,6 @@
 # EasyData
 
-## Generik repository.
+## Generik Repository
 
 Asosiy xususiyatlari
 
